@@ -1,6 +1,6 @@
 test_name 'FFI can be required' do
 
-  tag 'audit:low',
+  tag 'audit:high',
       'audit:acceptance'
 
   require 'puppet/acceptance/common_utils'
